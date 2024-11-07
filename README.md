@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xharris&label=Profile%20views&color=0e75b6&style=flat" alt="0xharris" /> </p>
 
-- 🔭 I’m currently working on **A To Do List**
+- 🔭 I’m currently working on **Solana Token Monitor - Reaper**
 
 - 🌱 I’m currently learning **Go & Javascript**
 
